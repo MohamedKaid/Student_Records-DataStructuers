@@ -22,7 +22,7 @@ public class Main {
 		int choice=0;
 		OrderedSinglyLinkedList<Pair<Integer>> list = new OrderedSinglyLinkedList();
 
-		System.out.println("Programmer:        Mohamed Kaid\r\n"
+		System.out.println("Programmer:        Mohamed Kaid\r\n");
 
 		System.out.println("Welcome!!");
 		do {

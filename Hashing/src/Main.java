@@ -25,10 +25,7 @@ public class Main {
 		int studentNum=0;
 		//variables 
 		int choice=0;
-		System.out.println("Programmer:        Mohamed Kaid\r\n"
-				+ "Course:            COSC 311,  W '22\r\n"
-				+ "Project:           5\r\n"
-				+ "Due date:          4-19-22");
+		System.out.println("Programmer:        Mohamed Kaid\r\n");
 
 		System.out.println("Welcome!!");
 

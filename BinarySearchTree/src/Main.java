@@ -25,10 +25,7 @@ public class Main {
 		int choice=0;
 		boolean checkIndex=false;
 
-		System.out.println("Programmer:        Mohamed Kaid\r\n"
-				+ "Course:            COSC 311,  W '22\r\n"
-				+ "Project:           4\r\n"
-				+ "Due date:          3-24-22");
+		System.out.println("Programmer:        Mohamed Kaid\r\n");
 
 		System.out.println("Welcome!!");
 
